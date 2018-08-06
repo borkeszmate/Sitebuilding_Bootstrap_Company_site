@@ -1,0 +1,30 @@
+{
+  "name": "company_name",
+  "version": "1.0.0",
+  "description": "Bootstrap 4 workflow",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "Brad Traversy",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "4.0.0-beta",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.2.1",
+    "popper.js": "^1.12.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/borkeszmate/Sitebuilding_Bootstrap_Company_site.git"
+  },
+  "bugs": {
+    "url": "https://github.com/borkeszmate/Sitebuilding_Bootstrap_Company_site/issues"
+  },
+  "homepage": "https://github.com/borkeszmate/Sitebuilding_Bootstrap_Company_site#readme"
+}
